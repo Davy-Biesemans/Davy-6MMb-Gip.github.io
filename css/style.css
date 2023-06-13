@@ -121,7 +121,7 @@ section {
 /* home */
 
 .home {
-  min-height: 100vh;
+  height: 100vh;
   display: flex;
   align-items: center;
   background: url(../images/home.jpg) no-repeat;
